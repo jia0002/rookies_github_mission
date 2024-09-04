@@ -1,4 +1,4 @@
-# rookies_github_proj
-Rookies github 수업 과제
+# rookies_github_mission
+Rookies Github 수업 미션
 
-github 미션
+README.md 수정
